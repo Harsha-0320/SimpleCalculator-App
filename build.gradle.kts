@@ -1,7 +1,6 @@
 plugins {
     id("com.android.application")
 }
-
 android {
     namespace = "com.example.calcy1"
     compileSdk = 34
