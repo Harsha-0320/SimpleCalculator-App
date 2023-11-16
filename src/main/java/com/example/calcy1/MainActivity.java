@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
     Button b1,b2,b3,b4;
     Double no1,no2,no3;
 
-    @Override
+
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
